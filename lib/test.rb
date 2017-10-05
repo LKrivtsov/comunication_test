@@ -60,9 +60,4 @@ class Test
     # Увеличиваем счетчик заданных вопросов
     @current_question += 1
   end
-
-  # Метод-аксессор (геттер) для переменной @points — баллы набранные в тесте
-  def points
-    @points
-  end
 end
