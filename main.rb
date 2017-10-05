@@ -1,5 +1,5 @@
-require_relative "test"
-require_relative "result_printer"
+require_relative "lib/test"
+require_relative "lib/result_printer"
 version = "тест - \"Оценка уровня общительности\"."
 # Аргумент терминала
 name = ARGV[0]
