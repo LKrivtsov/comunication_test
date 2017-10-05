@@ -4,6 +4,6 @@
 
 Для запуска теста введите команду
 
-`ruby test.rb <Ваше имя>`
+`ruby main.rb <Ваше имя>`
 
 <a href="http://psyliсst.net/praktikum/00003.htm">Источник</a>
